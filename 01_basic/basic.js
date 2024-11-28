@@ -12,5 +12,24 @@ object-oriented
 Event-driven 
 
 
-
 */
+
+
+// conditionls sracthure 
+// this si if and else example;
+
+
+let age = 23;
+
+
+if (age >= 18){
+    console.log("your are a adult ")
+}else{
+    console.log("your are minor");
+    
+}
+
+
+
+
+
